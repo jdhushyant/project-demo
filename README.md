@@ -1,4 +1,3 @@
 # project-demo
-1 repo of project
-<br>
+weight converter GUI
 python project
